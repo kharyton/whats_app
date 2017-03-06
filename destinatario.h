@@ -1,0 +1,1 @@
+int setDestinatario(char [], recMESSAGE*);

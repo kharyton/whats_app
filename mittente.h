@@ -1,0 +1,1 @@
+int setMittente(char [], recMESSAGE*);
